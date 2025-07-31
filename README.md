@@ -1,2 +1,2 @@
 # snyk-security-scan
-Test Scan.
+Test  Scan.
