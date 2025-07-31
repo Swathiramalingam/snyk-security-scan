@@ -1,6 +1,11 @@
 {
-  "name": "test-snyk-scan",
+  "name": "snyk-demo",
   "version": "1.0.0",
+  "description": "A vulnerable Node.js project for Snyk testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "lodash": "4.17.4"
   }
